@@ -90,9 +90,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ayomikun Wahab](https://www.your-site.com](https://app.netlify.com/teams/mkzay/overview))
+- Frontend Mentor - [Mkzay](https://www.frontendmentor.io/profile/Mkzay)
+- Twitter - [Mkzay_](https://twitter.com/Mkzay_)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
