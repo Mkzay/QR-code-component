@@ -90,7 +90,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Ayomikun Wahab](https://www.your-site.com](https://app.netlify.com/teams/mkzay/overview)
+- Website - [Ayomikun Wahab](https://app.netlify.com/teams/mkzay/overview)
 - Frontend Mentor - [Mkzay](https://www.frontendmentor.io/profile/Mkzay)
 - Twitter - [Mkzay_](https://twitter.com/Mkzay_)
 
